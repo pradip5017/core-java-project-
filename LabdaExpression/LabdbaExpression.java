@@ -1,0 +1,12 @@
+package LabdaExpression;
+import java.util.*;
+public class LabdbaExpression {
+	public static void main(String args[])
+	{
+		
+	System.out.println("Hello World..!!");
+//	(int a, int b)-> System.out.println(a+b);
+	
+	}
+
+}
